@@ -1,5 +1,5 @@
 
-module XLSX
+module XLSXek
 
 import Artifacts
 import Dates
@@ -31,4 +31,4 @@ include("cell.jl")
 include("styles.jl")
 include("write.jl")
 
-end # module XLSX
+end # module XLSXek
